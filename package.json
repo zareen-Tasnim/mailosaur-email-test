@@ -1,0 +1,25 @@
+{
+  "name": "mailsaour-mail-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zareen-Tasnim/mailsaour-mail-testing.git"
+  },
+  "author": "Zareen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zareen-Tasnim/mailsaour-mail-testing/issues"
+  },
+  "homepage": "https://github.com/zareen-Tasnim/mailsaour-mail-testing#readme",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "mailosaur": "^8.6.1"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.41.2",
+    "@types/node": "^20.11.20"
+  }
+}
